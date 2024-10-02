@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {"item": "alchoria:ambrose_block"}
+    ],
+    "result": {
+        "count": 9,
+        "id": "alchoria:ambrose_ingot"
+    }
+}

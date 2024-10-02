@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {"item": "alchoria:polished_alchorum_ingot"}
+    ],
+    "result": {
+        "count": 9,
+        "id": "alchoria:polished_alchorum_nugget"
+    }
+}

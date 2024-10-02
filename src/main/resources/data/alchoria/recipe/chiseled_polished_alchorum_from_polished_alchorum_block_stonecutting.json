@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {"item": "alchoria:polished_alchorum_block"},
+    "result": {
+        "count": 4,
+        "id": "alchoria:chiseled_polished_alchorum"
+    }
+}

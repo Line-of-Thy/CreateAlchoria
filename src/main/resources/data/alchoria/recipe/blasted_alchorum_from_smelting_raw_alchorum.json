@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "category": "misc",
+    "cookingtime": 200,
+    "experience": 0.5,
+    "group": "alchorum",
+    "ingredient": {"item": "alchoria:raw_alchorum"},
+    "result": {
+        "count": 1,
+        "id": "alchoria:blasted_alchorum"
+    }
+}

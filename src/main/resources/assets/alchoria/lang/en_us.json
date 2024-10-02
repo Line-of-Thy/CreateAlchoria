@@ -1,0 +1,21 @@
+{
+    "item.alchoria.raw_alchorum": "Raw Alchorum",
+    "item.alchoria.alchorum_ingot": "Alchorum Ingot",
+    "item.alchoria.alchorum_nugget": "Alchorum Nugget",
+    "item.alchoria.alchorum_sheet": "Alchorum Sheet",
+    "item.alchoria.ambrose_ingot": "Ambrose Ingot",
+    "item.alchoria.ambrose_nugget": "Ambrose Nugget",
+    "item.alchoria.ambrose_sheet": "Ambrose Sheet",
+    "item.alchoria.blasted_alchorum": "Blasted Alchorum",
+    "item.alchoria.polished_alchorum_ingot": "Polished Alchorum Ingot",
+    "item.alchoria.polished_alchorum_nugget": "Polished Alchorum Nugget",
+    "item.alchoria.polished_alchorum_sheet": "Polished Alchorum Sheet",
+    "item.alchoria.irrelianite": "Irrelianite",
+
+    "block.alchoria.polished_alchorum_block": "Block of Polished Alchorum",
+    "block.alchoria.chiseled_polished_alchorum": "Chiseled Polished Alchorum",
+    "block.alchoria.ambrose_block": "Block of Ambrose",
+    
+    "creativetab.alchoria.create_alchoria": "Create: Alchoria",
+    "creativetab.alchoria.create_alchoria_blocks": "Create: Alchoria Blocks"
+}
